@@ -11,7 +11,7 @@ fn input(input_entry: &str) -> String {
 
 fn main()
 {
-    let user_name = input("yas");
+    let user_name = input("name");
     let user_age = input("age");
     let user_status = input("status");
 
